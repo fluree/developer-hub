@@ -1,9 +1,11 @@
 ### Developer Hub
 
+![](fluree-university.png)
+
 Welcome to the Fluree Developer Hub. Here, you'll be able to find download links for Fluree, example application you can launch in under five minutes, and all of the tools, connectors, and extensions that Fluree puts out. 
 
 If you're new and prefer a more gentle introduction to our product please visit our [documentation](https://docs.flur.ee/docs/getting-started), as well as our [lessons](https://docs.flur.ee/lesson) and [videos](https://docs.flur.ee/video). 
-
+ 
 ### Requirements
 
 To run Fluree or any of the examples, you must have Java 8 or higher installed.
@@ -22,13 +24,11 @@ Application | Features Demonstrated | Technologies | Packet Included
 [Supply Chain](https://github.com/fluree/example-zero-knowledge) | `smart functions` | React | yes
 [Full Text](https://github.com/fluree/example-full-text-search) | `full-text search` | React | yes
 [Zero Knowledge Proofs](https://github.com/fluree/example-zero-knowledge) | `zero-knowledge proofs`, `data immutability and traceability` |  yes
+[Voting](https://docs.flur.ee/docs/examples/voting) | `smart functions` | React | no
 [Credentials Demo](https://github.com/fluree/credentials-demo) | `validating credentials` | React | no
 [Authority Demo](https://github.com/fluree/example-authority-delegation) | `authority` | React | no
-
-;; TO DO - Get these set up with UIs, repos, etc.
-Cryptocurrency | LINK | [Crypto Documentation](https://docs.flur.ee/docs/examples/cryptocurrency)
-Voting | LINK | [Voting Documentation](https://docs.flur.ee/docs/examples/voting)
-
+[Parts Tracking](https://github.com/fluree/example-parts-tracking) | `` | React | no
+[Cryptocurrency]( )| `smart functions` | React | no
 
 ### Connectors and Other Tools
 

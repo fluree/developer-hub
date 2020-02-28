@@ -1,6 +1,8 @@
 ### Developer Hub
 
-![](fluree-university.png)
+<p align="center">
+<img src="fluree-university.png" alt="fluree-university" width="200"/>
+</p>
 
 Welcome to the Fluree Developer Hub. Here, you'll be able to find download links for Fluree, example application you can launch in under five minutes, and all of the tools, connectors, and extensions that Fluree puts out. 
 

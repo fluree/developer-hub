@@ -33,7 +33,7 @@ Application | Features Demonstrated | Technologies | Packet Included
 [Parts Tracking](https://github.com/fluree/example-parts-tracking) | `analytical queries` | React | no
 
 ### Connectors and Other Tools
-​
+
 - [Fluree Basic React Template](https://github.com/fluree/basic-react-template)
 - [Fluree Docker Example](https://github.com/fluree/fluree-docker-example)
 - [Fluree-Storj Connector](https://github.com/fluree/storj-fluree) - a connection between Fluree and the decentrailed cloud storage network, Storj. 

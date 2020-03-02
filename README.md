@@ -27,7 +27,6 @@ Application | Features Demonstrated | Technologies | Packet Included
 [Supply Chain](https://github.com/fluree/example-supply-chain) | `smart functions` | React | yes
 [Full Text](https://github.com/fluree/example-full-text-search) | `full-text search` | React | yes
 [Zero Knowledge Proofs](https://github.com/fluree/example-zero-knowledge) | `zero-knowledge proofs`, `data immutability and traceability` | React | yes
-[Voting](https://docs.flur.ee/docs/examples/voting) | `smart functions` | React | no
 [Credentials Demo](https://github.com/fluree/credentials-demo) | `validating credentials` | React | no
 [Authority Demo](https://github.com/fluree/example-authority-delegation) | `authority` | React | no
 [Parts Tracking](https://github.com/fluree/example-parts-tracking) | `analytical queries` | React | no

@@ -5,7 +5,7 @@
 </p>
 ​
 
-Welcome to the Fluree Developer Hub. Here, you'll be able to find download links for Fluree, example applications you can launch in under five minutes, and all of the tools, connectors, and extensions that Fluree releases. 
+Welcome to the Fluree Developer Hub. Here, you'll be able to find download links for Fluree, example applications you can launch in under five minutes, and all of the tools, connectors, and extensions that Fluree releases.  
 ​
 If you are new to Fluree and prefer a more gentle introduction to our product, please visit our [documentation](https://docs.flur.ee/docs/getting-started), as well as our [lessons](https://docs.flur.ee/lesson) and [videos](https://docs.flur.ee/video). 
 ​

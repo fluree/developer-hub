@@ -34,7 +34,8 @@ Application | Features Demonstrated | Technologies | Packet Included
 ### Connectors and Other Tools
 
 - [Fluree Basic React Template](https://github.com/fluree/basic-react-template)
-- [Fluree Docker Example](https://github.com/fluree/fluree-docker-example)
+- [Fluree Docker Example](https://github.com/fluree/fluree-docker-example) - an example for creating stand-alone Fluree service in a Docker container
+- [Fluree node.js Server Example](https://github.com/fluree/fluree-nodejs-server) -  a bare-bones node.js application using Fluree's Node.js library to access a downloaded Fluree instance.
 - [Fluree-Storj Connector](https://github.com/fluree/storj-fluree) - a connection between Fluree and the decentrailed cloud storage network, Storj. 
 - [Fluree CLI](https://github.com/fluree/fluree.cli) - Terminal-based tool that allows users to verify Fluree ledger files, read consensus state, and more.
 - [VSCode Extension](https://github.com/fluree/vscode-fluree) - A VS Code extension that connects to a single Fluree database, and allows you to issue queries, transaction, and tests against that database. 

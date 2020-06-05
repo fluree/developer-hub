@@ -40,3 +40,4 @@ Application | Features Demonstrated | Technologies | Packet Included
 - [Fluree CLI](https://github.com/fluree/fluree.cli) - Terminal-based tool that allows users to verify Fluree ledger files, read consensus state, and more.
 - [VSCode Extension](https://github.com/fluree/vscode-fluree) - A VS Code extension that connects to a single Fluree database, and allows you to issue queries, transaction, and tests against that database. 
 - [Smart Function Library](https://github.com/fluree/smart-function-library) - A (small!) library containing some commonly used smart functions.
+- [Transactor Group Example Configs](https://github.com/fluree/tx-group-ex-dirs) - A collection of sample transactor group configuration that are ready to try out. 

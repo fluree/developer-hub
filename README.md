@@ -30,6 +30,7 @@ Application | Features Demonstrated | Technologies | Packet Included
 [Credentials Demo](https://github.com/fluree/credentials-demo) | `validating credentials` | React | no
 [Authority Demo](https://github.com/fluree/example-authority-delegation) | `authority` | React | no
 [Parts Tracking](https://github.com/fluree/example-parts-tracking) | `analytical queries` | React | no
+[Comic Store](https://github.com/fluree/auth-pass-example) | `password authentication api` | React | no
 
 ### Connectors and Other Tools
 

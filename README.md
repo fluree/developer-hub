@@ -30,6 +30,7 @@ These lightweight examples showcase various Fluree features. If an example is li
 
 | Application                                                               | Features Demonstrated                                                            | Technologies | Packet Included |
 | ------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------ | --------------- |
+| [Query Peers & Load Balancing](https://github.com/fluree/node_demo_aws)   | `stateless databases`, `auto-scaling`, `cloud native`                            | AWS CDK, NodeJS  | yes             |
 | [Supply Chain](https://github.com/fluree/example-supply-chain)            | `smart functions`                                                                | React        | yes             |
 | [Full Text](https://github.com/fluree/example-full-text-search)           | `full-text search`                                                               | React        | yes             |
 | [Zero Knowledge Proofs](https://github.com/fluree/example-zero-knowledge) | `zero-knowledge proofs`, `data immutability and traceability`                    | React        | yes             |

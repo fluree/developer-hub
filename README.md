@@ -39,7 +39,7 @@ These lightweight examples showcase various Fluree features. If an example is li
 | [Parts Tracking](https://github.com/fluree/example-parts-tracking)        | `analytical queries`                                                             | React        | no              |
 | [Comic Store](https://github.com/fluree/auth-pass-example)                | `password authentication api`                                                    | React        | no              |
 | [MDM / IAM Demo](https://github.com/fluree/example-iam-mdm)               | `smart functions, identity management, rules/roles, password authentication api` | React        | no              |
-| [To-do List Generator](https://github.com/fluree/to-do-lists-generator)               | `Schema and Sample data creation, Queries and Transactions` | React        | yes             |
+| [To-do List Generator](https://github.com/fluree/to-do-lists-generator)               | `Schema and Sample data creation, Queries and Transactions` | React        | no             |
 
 ### Connectors and Other Tools
 

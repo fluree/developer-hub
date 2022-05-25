@@ -13,7 +13,7 @@ If you are new to Fluree and prefer a more gentle introduction to our product, p
 ### Requirements
 
 ​
-To run Fluree or any of the examples, you must have Java 8 or higher installed.
+To run Fluree or any of the examples, you must have Java 11 or higher installed.
 ​
 
 ### Fluree Download
